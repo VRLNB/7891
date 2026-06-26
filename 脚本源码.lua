@@ -12,7 +12,7 @@ local ThemeManager = loadstring(game:HttpGet(repo .. "addons/ThemeManager.lua"))
 local SaveManager = loadstring(game:HttpGet(repo .. "addons/SaveManager.lua"))()
 
 local Window = Library:CreateWindow({
-    Title = "🎉晓琳缝合",
+    Title = "🎉晓琳垃圾缝合",
     Footer = "作者:晓琳 | 测试版 v0.1",
     Center = true,
     AutoShow = true
