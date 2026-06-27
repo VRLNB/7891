@@ -1,4 +1,4 @@
--- ========== 等待游戏完全加载 ==========
+-- ========== 等待游戏加载 ==========
 if not game:IsLoaded() then game.Loaded:Wait() end
 
 local Players = game:GetService("Players")
